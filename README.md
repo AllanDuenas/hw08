@@ -67,3 +67,36 @@ dado un numero n,  grafique un ciclo de la funcion seno con amplitud n
   
 **Output**
 + patrones en pantalla  del 1 al 4
+
+
+
+
+
+                              !         !          
+                             ! !       ! !          
+                            ! . !     ! . !          
+                               ^^^^^^^^^ ^            
+                             ^             ^          
+                           ^  (0)       (0)  ^       
+                          ^        ""         ^       
+                         ^   ***************    ^     
+                       ^   *                 *   ^    
+                      ^   *   /\   /\   /\    *    ^   
+                     ^   *                     *    ^
+                    ^   *   /\   /\   /\   /\   *    ^
+                   ^   *                         *    ^
+                   ^  *                           *   ^
+                   ^  *                           *   ^
+                    ^ *                           *  ^  
+                     ^*                           * ^ 
+                      ^ *                        * ^
+                      ^  *                      *  ^
+                        ^  *       ) (         * ^
+                            ^^^^^^^^ ^^^^^^^^^ 
+
+
+                                        "Totoro" (from "My Neighbor Totoro")
+                                            --- Mabel Mak 
+
+
+
