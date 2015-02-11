@@ -64,5 +64,6 @@ dado un numero n,  grafique un ciclo de la funcion seno con amplitud n
 
 **Input**
   + numero entero n
+  
 **Output**
 + patrones en pantalla  del 1 al 4
